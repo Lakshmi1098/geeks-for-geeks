@@ -1,3 +1,4 @@
+#include<stdio.h>
 int main() 
 {
 char a,b[10],c[10];
